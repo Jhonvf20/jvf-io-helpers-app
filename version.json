@@ -1,23 +1,23 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "profiles": {
     "full": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.4/siebel-helpers-full.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.5/siebel-helpers-full.zip"
     },
     "dev1": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.4/siebel-helpers-dev1.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.5/siebel-helpers-dev1.zip"
     },
     "funcional": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.4/siebel-helpers-funcional.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.5/siebel-helpers-funcional.zip"
     },
     "lead": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.4/siebel-helpers-lead.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.5/siebel-helpers-lead.zip"
     },
     "dev2": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.4/siebel-helpers-dev2.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v1.1.5/siebel-helpers-dev2.zip"
     }
   },
-  "changelog": "Ajuste perfiles",
+  "changelog": "Control Granular",
   "releasedAt": "2026-05-15",
   "repo": "Jhonvf20/jvf-io-helpers-app"
 }
