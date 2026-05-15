@@ -194,3 +194,8 @@ siebel-helpers/
 
 **El puerto 23443 está ocupado**
 → Cambia el puerto con la variable `PORT` en `.env` o como variable de entorno.
+
+---
+
+*Desarrollado por Jhonnathan Varela Fonseca.*
+*Copyright © 2026. Todos los derechos reservados.*
