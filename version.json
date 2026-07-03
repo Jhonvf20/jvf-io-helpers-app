@@ -1,23 +1,23 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "profiles": {
     "full": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.0/siebel-helpers-full.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.1/siebel-helpers-full.zip"
     },
     "dev1": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.0/siebel-helpers-dev1.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.1/siebel-helpers-dev1.zip"
     },
     "funcional": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.0/siebel-helpers-funcional.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.1/siebel-helpers-funcional.zip"
     },
     "lead": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.0/siebel-helpers-lead.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.1/siebel-helpers-lead.zip"
     },
     "dev2": {
-      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.0/siebel-helpers-dev2.zip"
+      "downloadUrl": "https://github.com/Jhonvf20/jvf-io-helpers-app/releases/download/v2.1.1/siebel-helpers-dev2.zip"
     }
   },
-  "changelog": "Fast Apply",
+  "changelog": "Enforcement and Fast Apply",
   "releasedAt": "2026-07-03",
   "repo": "Jhonvf20/jvf-io-helpers-app"
 }
