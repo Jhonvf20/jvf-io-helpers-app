@@ -25,6 +25,7 @@ Ve a la sección de [Releases](../../releases/latest) y descarga el archivo `.zi
 | `siebel-helpers-dev1.zip` | Dev 1 | Herramientas básicas de desarrollo |
 | `siebel-helpers-dev2.zip` | Dev 2 | Herramientas extendidas de desarrollo |
 | `siebel-helpers-funcional.zip` | Funcional | Monitor y utilidades de consulta |
+| `siebel-helpers-siebel-admin.zip` | Siebel Admin | Server Analyzer, Crash Analyzer y Migración (solo lectura) |
 
 > Si no sabes cuál descargar, consulta con tu líder técnico.
 
@@ -194,8 +195,3 @@ siebel-helpers/
 
 **El puerto 23443 está ocupado**
 → Cambia el puerto con la variable `PORT` en `.env` o como variable de entorno.
-
----
-
-*Desarrollado por Jhonnathan Varela Fonseca.*
-*Copyright © 2026. Todos los derechos reservados.*
